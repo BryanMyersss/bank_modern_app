@@ -1,6 +1,8 @@
-# React + Vite
-
 To start the project write npm run dev in your terminal.
+port 3005
+home path /bankapp
+
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
